@@ -9,7 +9,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>MON CV</h1>
+    <h1>MON CV -Etape 1 : mise en forme du texte</h1>
 	
 	<h2>Généralités</h2>
 	<h3>Romain WANNER</h3>
