@@ -8,7 +8,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>MON CV -Etape 2 : Ajout des listes</h1>
+    <h1>MON CV -Etape 3 : Ajout divers</h1>
 	<img src="./jul.jpg" alt="Le titre alternatif décrivant l'image si celle si ne s'affiche pas">
 		<h2>Généralités</h2>
 			<p><b>Romain WANNER</b></br>
