@@ -3,7 +3,6 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 
     <title>Hello, world!</title>
@@ -12,10 +11,10 @@
     <h1>MON CV -Etape 1 : mise en forme du texte</h1>
 	
 	<h2>Généralités</h2>
-	<h3>Romain WANNER</h3>
-	<p>Informaticien</p>
-	<p>20 ans, Obernai</p>
-	<p>romainwanner1998@gmail.com</p>
+	<p><b>Romain WANNER</b></br>
+	Informaticien</br>
+	20 ans, Obernai</br>
+	romainwanner1998@gmail.com</p>
 	
 	<h2>Compétences</h2>
 	<h3>Administration systèmes et réseaux</h3>
