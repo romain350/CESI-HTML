@@ -1,0 +1,65 @@
+
+
+/* ------- TITRE ------- */
+
+
+/* ----- CONTENUE ----- */
+#top{
+	background-color: lightblue;
+	text-align: center;
+	padding: 5px 5px
+}
+
+#general{
+	
+}
+
+#mid-top{
+	margin: 5px;
+	height: 20vh;
+}
+
+#mid-top-bloc-1{
+	float: left;
+	width: 40vw;
+}
+
+#mid-top-bloc-2{
+	float: right;
+	width: 40vw;
+}
+
+#mid-mid{
+	margin: 5px;
+	height: 20vh;
+}
+
+#mid-mid-bloc-1{
+	float: left;
+	width: 40vw;
+}
+
+#mid-mid-bloc-2{
+	float: right;
+	width: 40vw;
+}
+
+#mid-down{
+	margin: 5px;
+	height: 20vh;
+}
+
+#mid-down-bloc-1{
+	float: left;
+	width: 40vw;
+}
+
+#mid-down-bloc-2{
+	float: right;
+	width: 40vw;
+}
+
+
+.titreblock{
+	background-color: lightblue;
+}

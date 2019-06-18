@@ -1,0 +1,29 @@
+html, body{
+	background-color: #808080;
+}
+
+/* ------- TITRE ------- */
+
+h1{
+	color: red;
+	font-size: 24px;
+}
+/* ----- CONTENUE ----- */
+p{
+	color: blue;
+	font-size: 14px;
+}
+
+#p1{
+	background-color: lightgrey;
+	color: darkgrey;
+}
+
+.warning{
+	background-color: pink;
+	color: darkred;
+}
+
+strong{
+	font-weight: normal;
+}
