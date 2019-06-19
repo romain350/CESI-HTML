@@ -1,65 +1,62 @@
+html{
+	background-color: lightgrey;
+	font-family: ubuntu;
+}
 
+body{
+    width: 70%;
+    background-color: white;
+    vertical-align: middle;
+    padding: 50px 50px 50px 50px;
+    margin: 10px auto auto;
+}
 
 /* ------- TITRE ------- */
-
-
-/* ----- CONTENUE ----- */
-#top{
-	background-color: lightblue;
+#titre{
+	background: lightblue;
 	text-align: center;
-	padding: 5px 5px
+	padding: 7px;
+	margin-bottom: 5%;
+	border: solid 1px;
 }
 
-#general{
-	
+.bloc-titre{
+    background-color: #81adff;
+    padding: 1px 0px 1px 30px;
+    margin: 5% 0px 5px 0px;
+    box-shadow: 8px 10px 0px #aaa;
+    width: 95%;
+}
+/* ----- CONTENUE ----- */
+a, a:hover {
+  text-decoration: none;
 }
 
-#mid-top{
-	margin: 5px;
-	height: 20vh;
+#top .top-left img{
+	margin: 0px 10px 0px 0px;
 }
 
-#mid-top-bloc-1{
+.top-left{
 	float: left;
-	width: 40vw;
 }
 
-#mid-top-bloc-2{
+.top-right{
 	float: right;
-	width: 40vw;
 }
 
-#mid-mid{
-	margin: 5px;
-	height: 20vh;
+.bloc{
+	width: 100%;
+	overflow: auto;
 }
 
-#mid-mid-bloc-1{
+.bloc-right{
+	float: right;
+	display: block;
+	width: 47%;
+}
+
+.bloc-left{
 	float: left;
-	width: 40vw;
-}
-
-#mid-mid-bloc-2{
-	float: right;
-	width: 40vw;
-}
-
-#mid-down{
-	margin: 5px;
-	height: 20vh;
-}
-
-#mid-down-bloc-1{
-	float: left;
-	width: 40vw;
-}
-
-#mid-down-bloc-2{
-	float: right;
-	width: 40vw;
-}
-
-
-.titreblock{
-	background-color: lightblue;
+	display: block;
+    width: 47%;
 }

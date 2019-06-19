@@ -3,67 +3,69 @@
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
+	<link rel="stylesheet" href="./style.css" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
     <title>Hello, world!</title>
-	<link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
   </head>
   <body>
-  
-  
-  
+	<div id="titre">
+    <h1>MON CV -Etape 3 : Ajout divers</h1>
+	</div>
 	<div id="top">
-		<h1>MON CV -Etape 3 : Ajout divers</h1>
-	</div>
-	<table>
-  <tr>
-    <td><img style="height: 100px; width: auto;" src="./jul.jpg"></td>
-    <td><p>
-		<b>Romain WANNER</b></br>
-		Informaticien</br>
-		20 ans, Obernai</br>
-		<i class="fas fa-envelope"></i> romainwanner1998@gmail.com</br>
-		<a href="https://fr.linkedin.com/"><i class="fab fa-linkedin"></i> LINKEDIN</a></br>
-		</p></td>
-    <td></td>
-  </tr>
-</table>
-	
-	
-	<!---------------------------------------------------------------------->
-	
-<div id="mid-top">
-	<div id="mid-top-bloc-1">
-		<div class="titreblock">
-			<h2>Compétences</h2>
+		<div class="top-left">
+			<img style="height: 150px;" src="./jul.jpg">
 		</div>
-			<ul>
-				<li>Administration Windows serveur</li>
-				<li>Administration web</li>
-				<li>OS clients: Windows 10, 7 </li>
-				<li>Virtualisation VMWARE ESXI, Proxmox</li>
-				<li>Scripting</li>
-			</ul>
+		<div class="top-left">
+				<p><font color="darkblue"><b>Romain WANNER</b></font></br>
+				<font color="red">Informaticien</font></br>
+				20 ans, Obernai</br>
+				romainwanner1998@gmail.com</br>
+				<i class="fab fa-linkedin"></i> <a href="https://fr.linkedin.com/">LINKEDIN</a></p>
+		</div>
+		<div class="top-right" >
+		<iframe width="360" height="150" src="https://maps.google.com/maps?width=100%&amp;height=9&amp;hl=en&amp;q=41%20rue%20othon-pisot+(Chez%20tonton)&amp;ie=UTF8&amp;t=&amp;z=16&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+		</div>
 	</div>
-	
-	<div id="mid-top-bloc-2">
-		<div class="titreblock">
-			<h2>Exploitation</h2>
+<div class="bloc">	
+	<div class="bloc-right">
+		<div class="bloc-titre">
+		<h2><i class="fas fa-briefcase"></i> Compétences</h2>
 		</div>
 				<ul>
-					<li>Exploitation</li>
-					<li>Support technique</li>
-					<li>support technique utilisateur</li>
-					<li>Formation des utilisateurs</li>
+					<li><b>Administration</b> Windows serveur</li>
+					<li><b>Administration</b> web</li>
+					<li><b>OS clients</b> Windows 10, 7 </li>
+					<li><b>Virtualisation</b> VMWARE ESXI, Proxmox</li>
+					<li><b>Scripting</b></li>
 				</ul>
 	</div>
-		
+	<div class="bloc-left">
+		<div class="bloc-titre">
+		<h2><i class="fas fa-briefcase"></i> Exploitation</h2>
+		</div>
+			<ul>
+				<li>Exploitation</li>
+				<li>Support technique</li>
+				<li>support technique utilisateur</li>
+				<li>Formation des utilisateurs</li>
+			</ul>
+	</div>
 </div>
-	<!---------------------------------------------------------------------->
 
-<div id="mid-mid">
-	<div id="mid-mid-bloc-1">
-		<div class="titreblock">
-			<h2>Expériences professionnelles</h2>
+<div class="bloc">	
+	<div class="bloc-right">
+		<div class="bloc-titre">
+		<h2><i class="fas fa-building"></i> Expériences professionnelles</h2>
+		</div>
+				<ol>
+					<li>2016 - 2016 2CRSI</li>
+					<li>2017 - 2019 MFA</li>
+					<li>2016 - 2016 Visual média</li>
+				</ol>
+	</div>
+	<div class="bloc-left">
+		<div class="bloc-titre">
+		<h2><i class="fas fa-graduation-cap"></i> Fromations</h2>
 		</div>
 			<ol>
 				<li>2016 - 2016 2CRSI</li>
@@ -71,14 +73,22 @@
 				<li>2016 - 2016 Visual média</li>
 			</ol>
 	</div>
-		
-		
-	<!---------------------------------------------------------------------->
+</div>
 
-
-	<div id="mid-mid-bloc-2">
-		<div class="titreblock">
-		<h2>Fromations</h2>
+<div class="bloc">	
+	<div class="bloc-right">
+		<div class="bloc-titre">
+		<h2><i class="fas fa-globe-europe"></i> Expériences professionnelles</h2>
+		</div>
+				<ol>
+					<li>2016 - 2016 2CRSI</li>
+					<li>2017 - 2019 MFA</li>
+					<li>2016 - 2016 Visual média</li>
+				</ol>
+	</div>
+	<div class="bloc-left">
+		<div class="bloc-titre">
+		<h2><i class="fas fa-beer"></i> Fromations</h2>
 		</div>
 			<ol>
 				<li>2016 - 2016 2CRSI</li>
@@ -87,27 +97,5 @@
 			</ol>
 	</div>
 </div>
-	<!---------------------------------------------------------------------->
-<div id="mid-down">
-	<div id="mid-down-bloc-1">
-		<div class="titreblock">
-			<h2>Centre d'intérêts</h2>
-		</div>
-			<ul>
-				<li>J'ai pas d eloisir</li>
-			</ul>
-	</div>
-	<div id="mid-down-bloc-2">
-		<div class="titreblock">
-			<h2>Centre d'intérêts</h2>
-		</div>
-			<ul>
-				<li>J'ai pas d eloisir</li>
-			</ul>
-	</div>
-</div>
-    <!-- Optional JavaScript -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" ></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" ></script>
   </body>
 </html>
