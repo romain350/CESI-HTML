@@ -9,7 +9,7 @@
   </head>
   <body>
 	<div id="titre">
-    <h1>MON CV -Etape 3 : Ajout divers
+    <h1>MON CV
 	<img style="width: 200px;float: right;margin-top: -30px;" src="./cesi.png"></h1>
 	</div>
 	<div id="top">
