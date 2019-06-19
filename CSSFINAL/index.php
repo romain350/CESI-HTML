@@ -19,7 +19,7 @@
 				<p><font color="darkblue"><b>Romain WANNER</b></font></br>
 				<font color="red">Informaticien</font></br>
 				20 ans, Obernai</br>
-				romainwanner1998@gmail.com</br>
+				<i class="fas fa-envelope"></i> romainwanner1998@gmail.com</br>
 				<i class="fab fa-linkedin"></i> <a href="https://fr.linkedin.com/">LINKEDIN</a></p>
 		</div>
 		<div class="top-right" >
