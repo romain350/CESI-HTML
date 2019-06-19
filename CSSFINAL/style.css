@@ -20,12 +20,16 @@ body{
 	border: solid 1px;
 }
 
+.bloc-titre h2{
+	margin-left: 30px;
+}
+
 .bloc-titre{
     background-color: #81adff;
-    padding: 1px 0px 1px 30px;
+    padding: 1px 0px 1px 0px;
     margin: 5% 0px 5px 0px;
     box-shadow: 8px 10px 0px #aaa;
-    width: 95%;
+    width: 98%;
 }
 /* ----- CONTENUE ----- */
 a, a:hover {
@@ -52,11 +56,11 @@ a, a:hover {
 .bloc-right{
 	float: right;
 	display: block;
-	width: 49%;
+	width: 50%;
 }
 
 .bloc-left{
 	float: left;
 	display: block;
-    width: 49%;
+    width: 50%;
 }
