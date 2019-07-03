@@ -14,8 +14,7 @@
   <body style="background-color: lightgrey;">
 <div style="background-color: white;width: 80%;margin: 10px auto auto;padding: 50px 50px 50px 50px;">	<div  class="container">
 		<div style="background-color: lightblue;" class="row">
-			<div class="col-10 " style="text-align: center;margin: 25px 0px 10px;"><h1 style="
-">MON CV</h1></div>
+			<div class="col-10 " style="text-align: center;margin: 25px 0px 10px;"><h1 style="">MON CV</h1></div>
 			<div class="col-2 ">
 			<img style="width: 200px;float: right;" src="./cesi.png">
 			</div>
